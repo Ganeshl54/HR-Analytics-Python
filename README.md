@@ -25,7 +25,8 @@ This project presents an end-to-end HR Analytics using Python. The dataset was c
 - Department-wise Analysis
 - Job Level Analysis
 - Performance Rating
-- 
+- Data Visualization
+ 
 ## Project Features :
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
